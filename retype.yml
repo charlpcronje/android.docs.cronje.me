@@ -4,6 +4,7 @@ url: https://android.docs.devserv.me
 branding:
   title: DEVserv.me ANDROID
   label: APK
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.devserv.me
