@@ -2,7 +2,7 @@ input: src
 output: public
 url: https://android.docs.devserv.me
 branding:
-  title: DEVserv.me ANDROID
+  title: CRONje.ME | Android
   label: APK
 favicon: ./favicon.png
 links:
