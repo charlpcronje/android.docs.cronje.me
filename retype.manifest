@@ -1,0 +1,108 @@
+{
+  "version": "3.0.3",
+  "created": "2023-06-23T06:14:51Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "andronix/index.html"
+    },
+    {
+      "path": "assets/andronix1.png"
+    },
+    {
+      "path": "assets/andronix2.png"
+    },
+    {
+      "path": "assets/kinggo.png"
+    },
+    {
+      "path": "assets/kingo.png"
+    },
+    {
+      "path": "assets/kingo2.png"
+    },
+    {
+      "path": "assets/supersu.png"
+    },
+    {
+      "path": "assets/termux0.png"
+    },
+    {
+      "path": "assets/termux1.png"
+    },
+    {
+      "path": "assets/termux2.png"
+    },
+    {
+      "path": "assets/termux3.png"
+    },
+    {
+      "path": "assets/termux4.png"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "favicon.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "terminus/index.html"
+    },
+    {
+      "path": "turmux/index.html"
+    }
+  ]
+}
